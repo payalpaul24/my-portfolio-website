@@ -1,0 +1,15 @@
+.card img {
+    width: 100%;
+    transition: 1s;
+  }
+  .card img:hover {
+    transform: scaleY(1.1);
+    cursor: pointer;
+  }
+  .card hr{
+      border: 2px solid #ffb400;
+  }
+  .card-body p:hover{
+      color: #ffb400;
+      cursor: pointer;
+  }
